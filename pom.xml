@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-"hi world"
+{
+"hi world";
+print{"say hello to the world"};
 }
 
 
